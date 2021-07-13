@@ -1,0 +1,2 @@
+# thycdn
+none
